@@ -1,0 +1,4 @@
+baseURL = "http://junevk.github.io"
+languageCode = "en-us"
+title = "June's website"
+disableKinds =['taxonomyTerm']
